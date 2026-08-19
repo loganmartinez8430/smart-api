@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-08-13T18:35:43Z
-Entry: fix: correct typo in documentation and error return strings
-Sequence: 66/78
+Last updated: 2026-08-19T17:18:15Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 67/78
